@@ -1,0 +1,13 @@
+ddalpha
+devtools
+doParallel
+fda.usc
+fmri
+knockoff
+lme4
+lmm
+ncvreg
+optparse
+oro.nifti
+R.utils
+SIS
