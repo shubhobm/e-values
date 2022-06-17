@@ -1,6 +1,6 @@
 # Feature Selection using e-values
 
-This repository contains source codes for the experiments in the paper
+This repository contains code and data for the experiments in the paper
 
 > [Feature Selection using e-values](https://arxiv.org/abs/2206.05391)
 >
